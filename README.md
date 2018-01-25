@@ -1,3 +1,3 @@
 # XMLHttpRequestGeneratorForm
 
-Generates XMLHttpRequest for quick and simple calls. 
+Converts curl to XMLHttpRequest for quick and simple JavaScript calls. 
